@@ -3,6 +3,6 @@
         "nome": "Bola",
         "preco": 400,
         "quantidade": 267,
-        "disponivel": true
+        "disponivel": null
     }
 }
