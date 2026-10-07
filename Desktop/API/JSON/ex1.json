@@ -3,6 +3,7 @@
         "nome": "Tropa de Elite",
         "ano":"2007",
         "diretor":"José Padilha",
-        "genero": ["drama policial", "ação", "suspense"]
+        "genero": ["drama policial", "ação", "suspense"],
+        "Continuacao": null
     }
 }

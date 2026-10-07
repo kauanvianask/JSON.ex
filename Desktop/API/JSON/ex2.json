@@ -3,6 +3,7 @@
         "nome": "Félix",
         "idade": 17,
         "notas": [10,8.7,9.8],
-        "resultado": true
+        "resultado": true,
+        "resultadoFinal": null
     }
 }
