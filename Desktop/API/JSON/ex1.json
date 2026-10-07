@@ -4,6 +4,11 @@
         "ano":"2007",
         "diretor":"José Padilha",
         "genero": ["drama policial", "ação", "suspense"],
-        "Continuacao": null
+        "proximos":{
+            "nome": "Tropa de Elite 2",
+            "ano":"2010",
+            "diretor": "José Padilha",
+            "continuacaoFilme": null
+        }
     }
 }

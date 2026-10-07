@@ -3,6 +3,10 @@
         "nome": "Bola",
         "preco": 400,
         "quantidade": 267,
-        "disponivel": null
+        "disponivel":{
+            "loja1": 324,
+            "loja2": 667,
+            "loja3": null
+        }
     }
 }
